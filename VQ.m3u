@@ -1,36 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png",VTV1 HD
-https://freem3u.xyz/api/live/play.m3u8?vid=2
-
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png",VTV2 HD
+#EXTINF:-1,VTV1 HD
+https://dethich.pw/vtv1/index.m3u8
+#EXTINF:-1,VTV2 HD
 https://vmttv.dpdns.org/tv360/?id=vtv2
-
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png",VTV3 HD
+#EXTINF:-1,VTV3 HD
 https://vmttv.dpdns.org/tv360/?id=vtv3
-
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/4.png",VTV4 HD
+#EXTINF:-1,VTV4 HD
 https://vmttv.dpdns.org/tv360/?id=vtv4
-
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/5.png",VTV5 HD
-https://freem3u.xyz/api/live/play.m3u8?vid=110
-
-#EXTINF:-1 tvg-id="vtv5tnb" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png",VTV5 Tây Nam Bộ HD
+#EXTINF:-1,VTV5 HD
+https://dethich.pw/vtv5/index.m3u8
+#EXTINF:-1,VTV5 Tây Nam Bộ HD
 https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
-
-#EXTINF:-1 tvg-id="vtv5tn" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png",VTV5 Tây Nguyên HD
+#EXTINF:-1,VTV5 Tây Nguyên HD
 https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png",VTV6 HD
+#EXTINF:-1,VTV6 HD
 https://vmttv.dpdns.org/tv360/?id=vtv6
-
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/9.png",VTV7 HD
-https://vmttv.dpdns.org/tv360/?id=vtv7
-
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/10.png",VTV8 HD
+#EXTINF:-1,VTV7 HD
+https://dethich.pw/vtv7/index.m3u8
+#EXTINF:-1,VTV8 HD
 https://vmttv.dpdns.org/tv360/?id=vtv8
-
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png",VTV9 HD
-https://vmttv.dpdns.org/tv360/?id=vtv9
-
-#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png",VTV10 HD
-https://vmttv.dpdns.org/tv360/?id=vtv10
+#EXTINF:-1,VTV9 HD
+https://dethich.pw/vtv9/index.m3u8
+#EXTINF:-1,VTV10 HD
+https://dethich.pw/vtv10/index.m3u8
+#EXTINF:-1,HTV Thể Thao HD
+https://dethich.pw/htvthethao/index.m3u8
+#EXTINF:-1,HTV2 - Vie Channel
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
+#EXTINF:-1,HTVC Phim HD
+https://freem3u.xyz/api/live/play.m3u8?vid=15
+#EXTINF:-1,ANTV HD
+https://freem3u.xyz/api/live/play.m3u8?vid=20
+#EXTINF:-1,QTTV - Quảng Trị
+https://freem3u.xyz/api/live/play.m3u8?vid=83
